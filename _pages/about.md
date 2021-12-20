@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p style='text-align: justify;'>
+I am Kamaljyoti Nath, a Postdoctoral Research Associate in Applied Mathematics at <a href="https://www.brown.edu"> Brown University </a> from February 2021. I grew up in 
+<a href = "https://www.google.co.in/maps/place/Sipajhar,+Assam+784145/@26.3973272,91.8896913,15z/data=!3m1!4b1!4m5!3m4!1s0x375afe1ae571ac61:0xaf73ffbabdd75b55!8m2!3d26.4009984!4d91.8952713"> Sipajhar, Assam </a> , where I completed my high school in 2002, stayed at Guwahati for two years, and completed my intermediate from Cotton College, Guwahati, Assam, India. I completed my PhD in 2020 from <a href="https://www.iitg.ac.in/"> Indian Institute of Technology Guwahati (IITG)</a>, Assam, India in the Civil Engineering Department (Structural Engineering stream). In Silchar, Assam, India, I received my B.Tech degree in Civil Engineering from National Institute of Technology Silchar (NITS) in the year 2008. From August 2008 to July 2013, I stayed in Bangalore, India, where I worked at TATA Consulting Engineers Ltd.</p>
